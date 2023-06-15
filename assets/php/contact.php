@@ -7,8 +7,8 @@ if(isset($_POST['message'])){
 	$message = $_POST['message'];
 
 
-	$to      = 'xiaojh1212@gmail.com';
-	$subject = 'Xiaojunh.com Contact';
+	$to      = 'khobelaraborifitebogotlabu@gmail.com';
+	$subject = 'tebogo-t.github.io Contact';
 
 	$headers = 'From: '. $email . "\r\n" .
     'Reply-To: '. $email . "\r\n" .
